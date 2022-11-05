@@ -10,6 +10,7 @@ namespace MyLessonApp
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
