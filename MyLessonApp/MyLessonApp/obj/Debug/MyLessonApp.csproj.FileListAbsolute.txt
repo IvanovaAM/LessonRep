@@ -1,0 +1,7 @@
+F:\Projects\Visual Studio 2019 Tips & Tricks\LessonRep\MyLessonApp\MyLessonApp\bin\Debug\MyLessonApp.exe.config
+F:\Projects\Visual Studio 2019 Tips & Tricks\LessonRep\MyLessonApp\MyLessonApp\bin\Debug\MyLessonApp.exe
+F:\Projects\Visual Studio 2019 Tips & Tricks\LessonRep\MyLessonApp\MyLessonApp\bin\Debug\MyLessonApp.pdb
+F:\Projects\Visual Studio 2019 Tips & Tricks\LessonRep\MyLessonApp\MyLessonApp\obj\Debug\MyLessonApp.csproj.AssemblyReference.cache
+F:\Projects\Visual Studio 2019 Tips & Tricks\LessonRep\MyLessonApp\MyLessonApp\obj\Debug\MyLessonApp.csproj.CoreCompileInputs.cache
+F:\Projects\Visual Studio 2019 Tips & Tricks\LessonRep\MyLessonApp\MyLessonApp\obj\Debug\MyLessonApp.exe
+F:\Projects\Visual Studio 2019 Tips & Tricks\LessonRep\MyLessonApp\MyLessonApp\obj\Debug\MyLessonApp.pdb
